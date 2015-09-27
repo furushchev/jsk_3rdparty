@@ -1,0 +1,8 @@
+uint16 dimension
+float32 cauchy_scale_factor
+float32 learning_ratio_scale_factor
+uint16 exponent
+uint32 iteration
+std_msgs/Float64MultiArray[] data
+---
+
