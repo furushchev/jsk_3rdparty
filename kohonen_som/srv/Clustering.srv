@@ -5,4 +5,4 @@ uint16 exponent
 uint32 iteration
 std_msgs/Float64MultiArray[] data
 ---
-
+geometry_msgs/Point[] positions

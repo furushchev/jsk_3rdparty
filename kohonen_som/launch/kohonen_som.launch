@@ -1,0 +1,4 @@
+<launch>
+  <node name="kohonen_som" pkg="kohonen_som" type="kohonen_som"
+        output="screen" />
+</launch>
